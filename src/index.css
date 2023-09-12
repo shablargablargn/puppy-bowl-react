@@ -1,0 +1,15 @@
+body {
+    font-family:Verdana;
+}
+
+nav{
+    display:flex;
+    background-color: rgb(182, 134, 255);
+    padding: 1rem;
+    justify-content: space-around;
+}
+
+nav a {
+    padding: 0.5rem;
+    color: rgb(92, 0, 0);
+}
